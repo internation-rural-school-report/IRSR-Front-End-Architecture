@@ -6,6 +6,38 @@ https://trello.com/b/85OrQdbz/internation-rural-school-report
 
 MVP Features Breakdown:
 
+MVP: School Admin can login and create, read, update and delete information on the condition of the school including general issues and the condition of equipment devices in the school (TVs, tablets, chromebooks, servers, routers, HDMI cables). A board member can log in and mark the action as done, scheduled, or ignored, and comment with more information. 
+
+General issue request:
+User(School Admin)
+Date
+Location (if applicable)
+Request Info
+Status: default to open
+
+Equipment request:
+User (School Admin)
+Date
+Location
+Request Info
+Status: default to open
+
+Update General Issue Request:
+User(School Board)
+Date
+Location (if applicable)
+Request Info
+Status: updated
+Status Info:
+
+Update Equipment Request:
+User(School Board)
+Date
+Location (if applicable)
+Request Info
+Status: (done, scheduled, or ignored)
+Board Status Comment:
+
 Login Page/Modal - After a user logs in, they'll be directed to a home page.
 
 Navigation - Navigation is present on all pages, Users should know what page is active by clicking on a nav link and activating their tab.
