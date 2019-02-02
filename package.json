@@ -1,0 +1,19 @@
+{
+  "name": "irsr-front-end-architecture",
+  "version": "1.0.0",
+  "description": "Front-end architecture for IRSR Build Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internation-rural-school-report/IRSR-Front-End-Architecture.git"
+  },
+  "author": "gina christians christiansgina@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/internation-rural-school-report/IRSR-Front-End-Architecture/issues"
+  },
+  "homepage": "https://github.com/internation-rural-school-report/IRSR-Front-End-Architecture#readme"
+}
